@@ -1,7 +1,10 @@
 {
-  "version": {
-    "version_number": "1.0.0",
-    "android_app_url": "",
-    "windows_app_url": ""
+  "app": {
+    "version": "1.0.0",
+    "download_url": "http://www.baidu.com"
+  },
+  "windows": {
+    "version": "1.0.0",
+    "download_url": "http://www.baidu.com"
   }
 }
